@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Candelario\\Desktop\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\Candelario\\Desktop\\SitioWebPlatzi\\PlatziWebsite\\PlatziWebsite.csproj",
       "projectName": "PlatziWebsite",
-      "projectPath": "C:\\Users\\Candelario\\Desktop\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectPath": "C:\\Users\\Candelario\\Desktop\\SitioWebPlatzi\\PlatziWebsite\\PlatziWebsite.csproj",
       "packagesPath": "C:\\Users\\Candelario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Candelario\\Desktop\\PlatziWebsite\\obj\\",
+      "outputPath": "C:\\Users\\Candelario\\Desktop\\SitioWebPlatzi\\PlatziWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
